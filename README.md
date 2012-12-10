@@ -21,5 +21,8 @@ Wishart DS, Knox C, Guo AC, et al., HMDB: a knowledgebase for the human metabolo
 Wishart DS, Tzur D, Knox C, et al., HMDB: the Human Metabolome Database. Nucleic Acids Res. 2007 Jan;35(Database issue):D521-6.
 Wishart DS, Knox C, Jewison T, et al., HMDB: the Human Metabolome Database in 2013. Nucleic Acids Res. 2013 Submitted
 
+The Netherlands Metabolomics Centre (NMC) [http://www.metabolomicscentre.nl](http://www.metabolomicscentre.nl)
+
+The Netherlands Bioinformatics Centre (NBIC) [http://www.nbic.nl](http://www.nbic.nl)
 
 https://github.com/gaarf/XML-string-to-PHP-array made it possible to read and convert the HMDB XML into PHP HashMaps which can be injected into MongoDB
